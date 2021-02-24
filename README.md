@@ -17,6 +17,12 @@ more info: https://spring.io/guides/gs/consuming-rest/
 
 #### Imagens do projeto:
 
- Recursos/endpoints de busca de CEP pelo seu número.
+Recursos/endpoints de busca de CEP pelo seu número pelo programa client chamado POSTMAN.
 
 ![alt text](https://github.com/EmanuelGabriel/dsdelivery-assets/blob/main/Captura%20de%20tela%20de%202021-02-24%2015-26-43.png)
+
+
+Recursos/endpoints de busca de CEP e sua documentação feita com OPENAPI.
+![alt text](https://github.com/EmanuelGabriel/dsdelivery-assets/blob/main/Captura%20de%20tela%20de%202021-02-24%2015-25-22.png)
+
+
