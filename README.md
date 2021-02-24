@@ -12,3 +12,4 @@ RestTemplate é uma classe utilitária que permite interagir com serviços RESTf
 more info: https://spring.io/guides/gs/consuming-rest/
 
 
+:information_source: OBS: Os dados são públicos e podem ser obtidos pelo link: <a href="https://api.postmon.com.br/v1/cep/64046-700">Dados públicos de Código de Endereçamento Postal/CEP.</a>
