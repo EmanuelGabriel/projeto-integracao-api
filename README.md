@@ -26,3 +26,15 @@ Recursos/endpoints de busca de CEP e sua documentação feita com OPENAPI.
 ![alt text](https://github.com/EmanuelGabriel/dsdelivery-assets/blob/main/Captura%20de%20tela%20de%202021-02-24%2015-25-22.png)
 
 
+<h3>Ferramentas e tecnologias utilizadas</h3>
+
+:ballot_box_with_check: Java 11
+
+:ballot_box_with_check: Spring Boot
+
+:ballot_box_with_check: OpenAPI/Swagger
+
+:ballot_box_with_check: Modelo arquitetural REST
+
+:ballot_box_with_check: RestTemplate
+
