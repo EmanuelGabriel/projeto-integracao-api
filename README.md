@@ -13,3 +13,10 @@ more info: https://spring.io/guides/gs/consuming-rest/
 
 
 :information_source: OBS: Os dados são públicos e podem ser obtidos pelo link: <a href="https://api.postmon.com.br/v1/cep/64046-700">Dados públicos de Código de Endereçamento Postal/CEP.</a>
+
+
+#### Imagens do projeto:
+
+ Recursos/endpoints de busca de CEP pelo seu número.
+
+![alt text](https://github.com/EmanuelGabriel/dsdelivery-assets/blob/main/Captura%20de%20tela%20de%202021-02-24%2015-26-43.png)
